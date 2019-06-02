@@ -119,8 +119,7 @@ Most Design patterns can be grouped into one of the following categories: creati
 Concurrency
 ---
 
-**Process** - TODO
-
+**Process** - A program in execution is often referred to as a *process*.  A thread is a subset (part) of the process.
 
 **Thread** - A thread is a spawnable unit of work in a program.
 The Java Virtual Machine allows an application to have multiple threads of execution running concurrently.
